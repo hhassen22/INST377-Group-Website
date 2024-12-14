@@ -89,8 +89,3 @@ npm test
 - Develop a mobile app version for better accessibility.
 - Integrate additional APIs (e.g., task management tools).
 
----
-
-## Contact Information
-For any inquiries or support, please contact the development team at [teamemail@example.com](mailto:teamemail@example.com).
-
