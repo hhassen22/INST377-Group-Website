@@ -9,10 +9,6 @@ The Student Time Management Application is a web-based tool designed to address 
 - **Desktop Browsers**: Google Chrome, Firefox, Safari, and Microsoft Edge
 - **Mobile Platforms**: iOS (Safari) and Android (Chrome)
 
-## Link to Developer Manual
-[Developer Manual](#developer-manual)
-
----
 
 # Developer Manual
 
